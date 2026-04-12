@@ -1,0 +1,13 @@
+{
+  "name": "llm-safety-codespace",
+  "image": "mcr.microsoft.com/devcontainers/python:0-3.11-bullseye",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
+}

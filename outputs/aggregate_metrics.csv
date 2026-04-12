@@ -1,0 +1,3 @@
+model_name,attack_success_rate,false_refusal_rate,avg_helpfulness_score,avg_refusal_rate,avg_correct_behavior,num_rows,num_manual_review
+Qwen/Qwen2.5-0.5B,0.0,0.0,2.0,0.3,1.0,20,6
+Qwen/Qwen2.5-0.5B-Instruct,0.0,0.0,2.0,0.3,1.0,20,6

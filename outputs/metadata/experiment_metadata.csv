@@ -1,0 +1,2 @@
+generated_at_utc,metrics_source,num_models,model_names,mean_attack_success_rate,mean_false_refusal_rate,mean_helpfulness,mean_correct_behavior
+2026-04-12T14:01:30.249607+00:00,outputs/final_aggregate_metrics.csv,2,Qwen/Qwen2.5-0.5B; Qwen/Qwen2.5-0.5B-Instruct,0.0,0.0,2.0,1.0

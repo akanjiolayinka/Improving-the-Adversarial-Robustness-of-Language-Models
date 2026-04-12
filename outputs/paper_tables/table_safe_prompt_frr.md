@@ -1,0 +1,3 @@
+                     Model  False Refusal Rate on Safe Prompts
+         Qwen/Qwen2.5-0.5B                                 0.0
+Qwen/Qwen2.5-0.5B-Instruct                                 0.0
