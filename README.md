@@ -6,7 +6,7 @@ This project compares three conditions within the same model family:
 
 1. a **base model**
 2. an **instruction-tuned model**
-3. a **LoRA safety-tuned model**
+3. a **LoRA safety-tuned model*
 
 The goal is to measure how safety-focused fine-tuning changes:
 
